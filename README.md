@@ -1,0 +1,2 @@
+# Crash-game
+Bot signal
